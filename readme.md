@@ -4,7 +4,7 @@ The Entertainment App is a full-stack application designed to provide users with
 
 ## Deployment
 
-- **Frontend:** :- 
+- **Frontend:** :- https://stalwart-fairy-fe9b63.netlify.app/
 - **Backend:** :-
 
 ## Important Links

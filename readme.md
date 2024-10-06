@@ -36,7 +36,8 @@ The Entertainment App is a full-stack application designed to provide users with
 1.  **Clone the Repository:** Start by cloning the Entertainment App repository to your local machine.
 
     ```sh
-   
+     git clone https://github.com/yourusername/entertainment-app.git
+    cd entertainment-app
     ```
 
 2.  **Navigate to the Backend Directory:** Move into the backend directory of the project.
@@ -244,4 +245,6 @@ Contributions are welcome! Please follow these steps to contribute:
 5. Open a Pull Request.
 
 
-## Thank You 
+##
+<h4 align="center">Made with ❤️ from Abhishek </h4>
+<h4 align="center">Thank You</h4>
